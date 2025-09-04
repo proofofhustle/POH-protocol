@@ -7,7 +7,7 @@ import { Progress } from "@/components/ui/progress"
 import { Button } from "@/components/ui/button"
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 import { NFTCard, type NFTMetadata } from "@/components/nft-card"
-import { Link } from "next/link"
+import Link from "next/link"
 import {
   TrendingUp,
   GitCommit,
